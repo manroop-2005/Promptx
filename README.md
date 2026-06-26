@@ -45,3 +45,9 @@ Below are some screenshots showcasing the PromptX app:
 ---
 
 **Enjoy using PromptX!**
+
+## Creator
+
+Designed and built with passion by **Manroop Singh**:
+- [Portfolio Website](https://portfolio-inky-eta-29.vercel.app/)
+- [manroopsingh2005a@gmail.com](mailto:manroopsingh2005a@gmail.com)
