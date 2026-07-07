@@ -31,7 +31,7 @@ Integrated chatbot with system prompts for specific tasks like General AI for ge
 
 ## Screenshots
 
-Below are some screenshots showcasing the PromptX app:
+Below are some screenshots showcasing PromptX app:
 
 | ![](https://ik.imagekit.io/moq2nlye8/Portfolio-project-images/PromptX/Screenshot_1751219792.png?updatedAt=1751227865413) | ![](https://ik.imagekit.io/moq2nlye8/Portfolio-project-images/PromptX/Screenshot_1751219783.png?updatedAt=1751227863497) |
 |:------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
